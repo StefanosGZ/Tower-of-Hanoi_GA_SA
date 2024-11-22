@@ -1,2 +1,3 @@
 # Thesis
-Still under work. For my masters thesis.
+Still under work.
+Multiple files need to be added.
