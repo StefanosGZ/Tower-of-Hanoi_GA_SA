@@ -1,2 +1,2 @@
 # Thesis
-For my masters thesis
+Still under work. For my masters thesis.
